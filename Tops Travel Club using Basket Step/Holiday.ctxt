@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=refNumber\ type\ price
+comment0.target=Holiday(java.lang.String,\ java.lang.String,\ double)
+comment0.text=\r\n\ Non\ default\ constructor\ for\ objects\ of\ class\ Holiday\r\n
+comment1.params=
+comment1.target=Holiday()
+comment1.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ Holiday\r\n
+comment2.params=
+comment2.target=java.lang.String\ getRefNumber()
+comment2.text=\r\n\ Accessor\ method\ for\ refNumber\r\n
+comment3.params=
+comment3.target=java.lang.String\ getType()
+comment3.text=\r\n\ Accessor\ method\ for\ type\r\n
+comment4.params=
+comment4.target=double\ getPrice()
+comment4.text=\r\n\ Accessor\ method\ for\ price\r\n
+comment5.params=refNumber
+comment5.target=void\ setRefNumber(java.lang.String)
+comment5.text=\r\n\ Mutator\ method\ for\ refNumber\r\n
+comment6.params=type
+comment6.target=void\ setType(java.lang.String)
+comment6.text=\r\n\ Mutator\ method\ for\ type\r\n
+comment7.params=price
+comment7.target=void\ setPrice(double)
+comment7.text=\r\n\ Mutator\ method\ for\ price\r\n
+numComments=8

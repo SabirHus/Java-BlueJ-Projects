@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=name\ money
+comment0.target=Friend(java.lang.String,\ double)
+comment0.text=\r\n\ Non\ default\ constructor\ for\ objects\ of\ class\ Friend\r\n
+comment1.params=
+comment1.target=Friend()
+comment1.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ Friend\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Accessor\ method\ for\ name\r\n
+comment3.params=
+comment3.target=double\ getMoney()
+comment3.text=\r\n\ Accessor\ method\ for\ money\r\n
+comment4.params=name
+comment4.target=void\ setName(java.lang.String)
+comment4.text=\r\n\ Mutator\ method\ for\ name\r\n
+comment5.params=money
+comment5.target=void\ setMoney(double)
+comment5.text=\r\n\ Mutator\ method\ for\ money\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ To\ string\ method\ for\ friend\r\n
+numComments=7
