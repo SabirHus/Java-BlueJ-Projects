@@ -1,7 +1,3 @@
-Java BlueJ Project Collection.
-
-The Object-Oriented Programming of real-world models in a series of Java projects.
-
 ## Projects Overview
 
 ### 1. TopsTravel (Holiday Booking System).
